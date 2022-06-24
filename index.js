@@ -1,0 +1,1 @@
+alert("Name: Adetola  \n Height: 5'8 \n Country: Nigeria")
